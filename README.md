@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmad Ebrahim</h1>
-<h3 align="center">A passionate frontend developer from syria specialized with react.js</h3>
+<h1 align="center">Hi 👋, I'm Ahmad</h1>
+<h3 align="center">A passionate frontend developer specialized in react.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-ebrahim-1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-ebrahim-1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **always a new project**
 
 - 🌱 I’m currently learning **next.js**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmadeb911@gmail.com**
 
-- ⚡ Fun fact **I am also studying software engineering at tishreen university**
+- ⚡ Fun fact **I'm specializing in software engineering at college**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
