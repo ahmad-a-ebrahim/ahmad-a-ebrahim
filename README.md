@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ahmad, <br>I am a final year software engineering student and a front-end developer.
+Hi, I'm Ahmad, <br>a Software Engineer and Frontend Developer.
 
 
 ## 🌐 Socials:
