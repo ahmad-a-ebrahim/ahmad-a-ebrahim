@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ahmad, <br>a Software Engineer and Front-End Developer with professional experience in React.js & Next.js.
+Hi, I'm Ahmad, <br>a Software Engineer and Web Developer with professional experience in React.js & Next.js.
 
 
 ## 🌐 Socials:
