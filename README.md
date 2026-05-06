@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ahmad, <br>a Software Engineer and Web Developer with professional experience in React.js & Next.js.
+Hi, I'm Ahmad, <br>a Software Engineer and Web Developer.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmadibraheem91) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmad.a.ebrahim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadibrahem) 
 # 💻 Tech Stack:
