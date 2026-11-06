@@ -1,12 +1,47 @@
-# 💫 About Me:
-Hi, I'm Ahmad, <br>a Software Engineer and Web Developer.
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmadibraheem91) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmad.a.ebrahim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadibrahem) 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmad-a-ebrahim&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-a-ebrahim&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-a-ebrahim&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://portfolio-coral-zeta-34.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Ahmad Ebrahim. Web and Full-Stack Developer, AI Automation Engineer. Freelance and remote, available now." /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Building web applications, e-commerce stores and AI automations that help businesses move faster and work smarter.
+
+<a href="https://portfolio-coral-zeta-34.vercel.app/"><img src="assets/link-portfolio.svg" height="40" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ahmadibrahem"><img src="assets/link-linkedin.svg" height="40" alt="LinkedIn" /></a>
+<a href="mailto:ahmadeb911@gmail.com"><img src="assets/link-email.svg" height="40" alt="Email" /></a>
+<a href="https://www.instagram.com/ahmad_e.dev"><img src="assets/link-instagram.svg" height="40" alt="Instagram" /></a>
+<a href="https://gitlab.com/ahmad-a-ebrahim"><img src="assets/link-gitlab.svg" height="40" alt="GitLab" /></a>
+
+## What I build
+
+<a href="https://portfolio-coral-zeta-34.vercel.app/#contact"><img src="assets/service-apps.svg" width="410" alt="Web Applications: custom web apps, dashboards and SaaS platforms with real-time features, auth, payments and multi-language support. React, Next.js, TypeScript, Node.js. Typical timeline: 4 to 10 weeks." /></a>
+<a href="https://portfolio-coral-zeta-34.vercel.app/#contact"><img src="assets/service-web.svg" width="410" alt="Websites and Landing Pages: fast, responsive company websites and campaign landing pages, optimized for speed and SEO and built to turn visitors into leads. Next.js, WordPress, Tailwind CSS. Typical timeline: 1 to 3 weeks." /></a>
+<a href="https://portfolio-coral-zeta-34.vercel.app/#contact"><img src="assets/service-store.svg" width="410" alt="E-commerce Stores: online stores with custom themes, payment gateways and conversion tracking, built to sell on every screen. Shopify, WordPress. Typical timeline: 2 to 5 weeks." /></a>
+<a href="https://portfolio-coral-zeta-34.vercel.app/#contact"><img src="assets/service-ai.svg" width="410" alt="AI Automation: AI agents, RAG pipelines and n8n workflows that connect your tools, automate repetitive work and save hours every week. n8n, Claude API, OpenAI API. Typical timeline: 1 to 4 weeks." /></a>
+
+## Selected work
+
+<a href="https://sarah-hasan.vercel.app/"><img src="assets/work-sarah-hasan.svg" width="410" alt="Sarah Hasan, a computer vision portfolio: WebGL eyes drawn from live hex values that track your cursor and focus like a lens. Next.js, WebGL, GSAP. Live site." /></a>
+<a href="https://portfolio-coral-zeta-34.vercel.app/#projects"><img src="assets/work-litaskunu.svg" width="410" alt="LiTaskunu, a multi-role social platform: real-time chat and notifications across 8 languages, with dashboards for each role and support staff. Next.js, TypeScript, Pusher. Client work." /></a>
+<a href="https://portfolio-coral-zeta-34.vercel.app/#projects"><img src="assets/work-evexl.svg" width="410" alt="EVEXL, an NFC business card platform: digital cards shared over NFC, with OAuth, analytics, Tap Payments subscriptions and Firebase push. React, Redux, ShadCN. Client work." /></a>
+<a href="https://auto-forma.vercel.app"><img src="assets/work-auto-forma.svg" width="410" alt="AutoForma, an AI form builder: a full-stack form builder with AI generation, a drag-and-drop editor and response analytics. Next.js, TypeScript, Supabase. Live, with public code." /></a>
+
+Client work lives in private repos, so this profile shows only part of it. [See every project in motion on my portfolio](https://portfolio-coral-zeta-34.vercel.app/#projects), or read the code for [AutoForma](https://github.com/ahmad-a-ebrahim/auto-forma).
+
+## Stack
+
+- **Frontend:** `React` `Next.js` `TypeScript` `Redux` `React Query` `TailwindCSS` `ShadCN`
+- **Motion and 3D:** `GSAP` `Framer Motion` `WebGL / GLSL`
+- **Backend and data:** `Node.js` `Express` `MongoDB` `Supabase` `Pusher`
+- **CMS and commerce:** `WordPress` `Shopify`
+- **AI and automation:** `n8n` `Claude API` `OpenAI API` `pgvector`
+
+## Right now
+
+- **Web Developer at Nael Marketing Agency, Dubai.** WordPress, Shopify and custom React and Next.js sites, landing pages and stores for the agency and its clients.
+- **Open to freelance and remote projects** alongside that.
+- **Building [talk-to-your-docs](https://github.com/ahmad-a-ebrahim/talk-to-your-docs),** a multi-tenant RAG platform that answers questions from your files, with citations. Still in progress.
+
+**Before that:** Frontend Engineer at FutureX Digital Solutions (2026), Frontend Developer at Davinda (2025), Frontend Developer at York British Academy (2024).
+
+> "I've received wonderful feedback about you; your work is excellent and your commitment is outstanding."
+>
+> Waleed AL-Barghouthi, Manager at FutureX
+
+<a href="https://portfolio-coral-zeta-34.vercel.app/#contact"><img src="assets/cta.svg" width="100%" alt="Have a project in mind? Let's build it. Tell me what you need, and I'll get back to you with a plan and an estimate. Start a project." /></a>
