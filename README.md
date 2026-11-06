@@ -5,6 +5,7 @@ Building web applications, e-commerce stores and AI automations that help busine
 <a href="https://portfolio-coral-zeta-34.vercel.app/"><img src="assets/link-portfolio.svg" height="40" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ahmadibrahem"><img src="assets/link-linkedin.svg" height="40" alt="LinkedIn" /></a>
 <a href="mailto:ahmadeb911@gmail.com"><img src="assets/link-email.svg" height="40" alt="Email" /></a>
+<a href="https://www.facebook.com/ahmad.e.dev/"><img src="assets/link-facebook.svg" height="40" alt="Facebook" /></a>
 <a href="https://www.instagram.com/ahmad_e.dev"><img src="assets/link-instagram.svg" height="40" alt="Instagram" /></a>
 <a href="https://gitlab.com/ahmad-a-ebrahim"><img src="assets/link-gitlab.svg" height="40" alt="GitLab" /></a>
 
@@ -17,12 +18,9 @@ Building web applications, e-commerce stores and AI automations that help busine
 
 ## Selected work
 
-<a href="https://sarah-hasan.vercel.app/"><img src="assets/work-sarah-hasan.svg" width="410" alt="Sarah Hasan, a computer vision portfolio: WebGL eyes drawn from live hex values that track your cursor and focus like a lens. Next.js, WebGL, GSAP. Live site." /></a>
-<a href="https://portfolio-coral-zeta-34.vercel.app/#projects"><img src="assets/work-litaskunu.svg" width="410" alt="LiTaskunu, a multi-role social platform: real-time chat and notifications across 8 languages, with dashboards for each role and support staff. Next.js, TypeScript, Pusher. Client work." /></a>
-<a href="https://portfolio-coral-zeta-34.vercel.app/#projects"><img src="assets/work-evexl.svg" width="410" alt="EVEXL, an NFC business card platform: digital cards shared over NFC, with OAuth, analytics, Tap Payments subscriptions and Firebase push. React, Redux, ShadCN. Client work." /></a>
-<a href="https://auto-forma.vercel.app"><img src="assets/work-auto-forma.svg" width="410" alt="AutoForma, an AI form builder: a full-stack form builder with AI generation, a drag-and-drop editor and response analytics. Next.js, TypeScript, Supabase. Live, with public code." /></a>
+<a href="https://sarah-hasan.vercel.app/"><img src="assets/work-sarah-hasan.svg" width="100%" alt="Sarah Hasan, a computer vision portfolio: WebGL eyes drawn from live hex values that track your cursor and focus like a lens. Next.js, WebGL, GSAP. Live site." /></a>
 
-Client work lives in private repos, so this profile shows only part of it. [See every project in motion on my portfolio](https://portfolio-coral-zeta-34.vercel.app/#projects), or read the code for [AutoForma](https://github.com/ahmad-a-ebrahim/auto-forma).
+[See the rest of my work on my portfolio](https://portfolio-coral-zeta-34.vercel.app/#projects).
 
 ## Stack
 
@@ -36,7 +34,6 @@ Client work lives in private repos, so this profile shows only part of it. [See 
 
 - **Web Developer at Nael Marketing Agency, Dubai.** WordPress, Shopify and custom React and Next.js sites, landing pages and stores for the agency and its clients.
 - **Open to freelance and remote projects** alongside that.
-- **Building [talk-to-your-docs](https://github.com/ahmad-a-ebrahim/talk-to-your-docs),** a multi-tenant RAG platform that answers questions from your files, with citations. Still in progress.
 
 **Before that:** Frontend Engineer at FutureX Digital Solutions (2026), Frontend Developer at Davinda (2025), Frontend Developer at York British Academy (2024).
 
